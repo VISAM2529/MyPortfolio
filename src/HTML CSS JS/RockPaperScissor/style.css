@@ -1,0 +1,54 @@
+body{
+    margin: auto;
+    background: radial-gradient(circle, rgb(221, 30, 30) 0%, rgba(0,0,0,1) 89%);
+}
+.game{
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 100%;
+   
+}
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 250px;
+    
+
+}
+.img1{
+    width: 300px;
+    gap: 100px;
+   
+}
+.img2{
+    width: 300px;
+}
+.head{
+    text-align: center;
+}
+.result{
+    text-align: center;
+    margin: -232px 0px 0px -10px;
+    color: aqua;
+}
+/* .button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+} */
+.button{
+   width: 100px;
+   height: 50px;
+   border: none;
+   border-radius: 20px;
+    cursor: pointer;
+    margin-left: 50%;
+}
+.score{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

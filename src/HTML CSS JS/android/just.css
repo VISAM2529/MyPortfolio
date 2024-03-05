@@ -1,0 +1,94 @@
+body{
+	margin: 0;
+}
+.main{
+	width: 100%;
+}
+.title{
+	background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+.features{
+	background-color: #ccccb3;
+}
+.carousel-inner{
+	display: block;
+      margin: 0 auto;
+      margin-left: 50vh;
+
+}
+.footer{
+	background-color: #ccccb3;
+}
+.view{
+	background-color: #ccccb3;
+}
+.hash-list {
+    display: block;
+    padding: 0;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px){
+    .hash-list.cols-3 > .rli:nth-last-child(-n+3) {
+        border-bottom: none;
+    }
+}
+@media (min-width: 768px){
+    .hash-list.cols-3 > .rli {
+        width: 33.3333%;
+    }
+}
+.hash-list > .rli {
+    display: block;
+    float: left;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.pad-30, .pad-30-all > * {
+    padding: 30px;
+}
+.rimg {
+    border: 0;
+}
+.mgb-20, .mgb-20-all > * {
+    margin-bottom: 20px;
+}
+.wpx-100, .wpx-100-after:after {
+    width: 100px;
+}
+.img-round, .img-rel-round {
+    border-radius: 50%;
+}
+.padb-30, .padb-30-all > * {
+    padding-bottom: 30px;
+}
+
+.mgb-40, .mgb-40-all > * {
+    margin-bottom: 40px;
+}
+.align-center {
+    margin-top:0;
+	margin-bottom: 0;
+	padding: 50px;
+    text-align: center;
+}
+[class*="line-b"] {
+    position: relative;
+    padding-bottom: 20px;
+    border-color: #E6AF2A;
+}
+.fg-text-d, .fg-hov-text-d:hover, .fg-active-text-d.active {
+    color: #222;
+}
+.font-cond-b {
+    font-weight: 700 !important;
+}
+.reviews{
+	background-color: #ccccb3;
+		width: 100%;
+	height: 100%;
+}
+.fclass{
+	display: inline-block;
+	margin-left: 77vh;
+}

@@ -1,0 +1,64 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #251E30;
+	font-family: 'Ubuntu',sans-serif;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+	overflow: hidden;
+}
+.container{
+	box-shadow: 3px 3px 10px #5E3E91;
+	border-radius: 5px;
+	background-color: #2E086A;
+	width: 400px;
+	height: 200px;
+}
+.header{
+	color: #F7CBE6;
+	font-size: 26px;
+	text-align: center;
+	margin: 20px 0 20px;
+}
+.span{
+	font-size: 34px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.btn{
+	margin-left: 45px;
+}
+.btn1{
+	border: none;
+	border-radius: 30px;
+	padding: 10px 20px;
+	margin: 0 5px 10px 20px;
+}
+.btn1:hover{
+	transform: scale(1.2);
+}
+.btn2{
+	border: none;
+	border-radius: 30px;
+	padding: 10px 20px;
+	margin: 0 5px 10px 20px;
+}
+.btn2:hover{
+	transform: scale(1.2);
+}
+.btn3{
+	border: none;
+	border-radius: 30px;
+	padding: 10px 20px;
+	margin: 0 5px 10px 20px;
+}
+.btn3:hover{
+	transform: scale(1.2);
+}

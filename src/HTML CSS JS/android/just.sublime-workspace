@@ -1,0 +1,832 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"cl",
+				"cleanList"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"cel",
+				"cel"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"input",
+				"input-cel"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border-bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"border-lef",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"l",
+				"let"
+			],
+			[
+				"s",
+				"seconds"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"t",
+				"timeRef"
+			],
+			[
+				"ta",
+				"tasksEl"
+			],
+			[
+				"tas",
+				"taskEl"
+			],
+			[
+				"task",
+				"taskEl"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"filter",
+				"filterData"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"fony",
+				"font-family\tproperty"
+			],
+			[
+				"text-s",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"sl",
+				"slidesLength"
+			],
+			[
+				"slide",
+				"slidesLength"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"slid",
+				"sliderHeight"
+			],
+			[
+				"sli",
+				"slidercontainer"
+			],
+			[
+				"border-t",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"loa",
+				"load"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"Loa",
+				"LoadText"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"tetx",
+				"text-decoration\tproperty"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"po",
+				"powderblue"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"bro",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tar",
+				"transition\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"padin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"fr",
+				"form\tTag"
+			],
+			[
+				"secondary",
+				"secondary-color-hover"
+			],
+			[
+				"sec",
+				"secondary-color"
+			],
+			[
+				"primary",
+				"primary-color-hover"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"p",
+				"primary-color"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"backgroun",
+				"background\tproperty"
+			],
+			[
+				"text-",
+				"text-shadow\tproperty"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"siz",
+				"size\tproperty"
+			],
+			[
+				"mari",
+				"margin-bottom\tproperty"
+			],
+			[
+				"g",
+				"getPropertyValue"
+			],
+			[
+				"right",
+				"right\tproperty"
+			],
+			[
+				"offset",
+				"offsetY"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"backgo",
+				"background-repeat\tproperty"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"ne",
+				"newelement1"
+			],
+			[
+				"new",
+				"newcontent"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"bore",
+				"border\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"my",
+				"myAudio3"
+			],
+			[
+				"M",
+				"myAudio2"
+			],
+			[
+				"insert",
+				"insert"
+			],
+			[
+				"for",
+				"formstyle"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"onmouseo",
+				"onmouseout\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/C Programs/Area_Circumference_Circle.c",
+		"/E/web/Temp Converter/index.html",
+		"/D/BE/SEM III/CG/Mini Project/main.cpp",
+		"/E/web/Word and Character Counter/index.html",
+		"/E/web/Background Color Changer/index.html",
+		"/D/TYCO/6th sem/Python/python-project-typing-speed-game/speed typing.py",
+		"/D/code python/OOP2.py",
+		"/D/code python/OOP.py",
+		"/D/python-project-typing-speed-game/speed typing.py",
+		"/D/web/todo/todo.html",
+		"/D/web/todo/todo.css",
+		"/D/javascript/projects/Login form/Login.js",
+		"/D/web/todo/todo.js",
+		"/D/javascript/projects/Login form/Login.html",
+		"/D/web/BlurringLoading/BL.html",
+		"/D/web/BlurringLoading/BL.css",
+		"/D/web/Drum-kit/drum.js",
+		"/D/web/ImageGallery/img.js",
+		"/D/web/Stopwatch/stp.js",
+		"/D/web/Drum-kit/drum.css",
+		"/D/web/Drum-kit/drum.html",
+		"/D/web/E-commerce/Project.html",
+		"/D/web/BlurringLoading/bg.jpg",
+		"/D/web/BlurringLoading/BL.js",
+		"/D/web/Stopwatch/stp.html",
+		"/D/web/Stopwatch/stp.css",
+		"/D/web/Live User Filter/LUF.html",
+		"/D/web/Live User Filter/LUF.js",
+		"/D/web/Live User Filter/LUF.css",
+		"/D/web/ImageGallery/img.css",
+		"/D/web/ImageGallery/img.html",
+		"/C/Users/dell/Downloads/html.html",
+		"/D/web/E-commerce/Indoor.html",
+		"/D/web/Bank/Bank.html",
+		"/D/web/Bank/login.css",
+		"/D/web/Bank/login.html",
+		"/D/web/ImageSlider/imgslider.html",
+		"/D/web/ImageSlider/imgslider.css",
+		"/D/web/E-commerce/Project.css",
+		"/D/web/Music Player/MP.html",
+		"/D/web/Music Player/MP.css",
+		"/D/web/Bank/paytm.css",
+		"/D/web/Bank/paytm.html",
+		"/D/web/Bank/Transfer.css",
+		"/D/web/Bank/Transfer.html",
+		"/D/web/Bank/Bank.css",
+		"/D/web/Bank/BHIM.css",
+		"/D/web/Bank/BHIM.html",
+		"/D/web/Bank/Netbanking.css",
+		"/D/web/Bank/Netbanking.html",
+		"/D/web/Bank/cash.css",
+		"/D/web/Bank/cash.html",
+		"/D/web/E-commerce/Login.js",
+		"/D/web/Square Creator/sq.js",
+		"/D/web/Bank/Cash.html",
+		"/D/web/Bank/Cash.css",
+		"/D/web/Bank/Login.js",
+		"/D/web/E-commerce/Login.html",
+		"/D/web/E-commerce/Login.css",
+		"/D/web/Square Creator/sq.css",
+		"/D/web/FLAT ON RENT/HTML1.html",
+		"/D/javascript/projects/Obstacle Game/Homepage.css",
+		"/D/javascript/projects/Obstacle Game/Homepage.js",
+		"/D/web/Square Creator/sq.html",
+		"/D/web/E-commerce/Indoor.css",
+		"/D/web/E-commerce/LoginS.css",
+		"/D/web/E-commerce/LoginS.html",
+		"/D/javascript/projects/Obstacle Game/Homepage.html",
+		"/D/javascript/projects/Racing Game/Racing.css",
+		"/D/javascript/projects/Car Racing/Car.js",
+		"/D/javascript/projects/Car Racing/Car.css",
+		"/D/javascript/projects/Car Racing/Car.html",
+		"/D/javascript/projects/Racing Game/Racing.js",
+		"/D/javascript/projects/Racing Game/Racing.html",
+		"/D/web/Racing Game/Racing.html",
+		"/D/web/Obstacle Game/Homepage.js",
+		"/D/web/Obstacle Game/Homepage.css",
+		"/D/web/Obstacle Game/Homepage.html",
+		"/D/web/Racing Game/Racing.css",
+		"/D/web/Racing Game/Racing.js",
+		"/D/JavaScript_Dragon_Game/JavaScript Dragon Game/script.js",
+		"/D/JavaScript_Dragon_Game/JavaScript Dragon Game/style.css",
+		"/D/JavaScript_Dragon_Game/JavaScript Dragon Game/index.html",
+		"/D/javascript/projects/Calculator/Calculator.html",
+		"/D/web/LUDO/2Player.css",
+		"/D/web/LUDO/2Player.js",
+		"/D/web/LUDO/LUDO.js",
+		"/D/web/LUDO/2Player.html",
+		"/D/web/LUDO/LUDO.css",
+		"/D/web/LUDO/LUDO.html",
+		"/D/javascript/course/variables_with_message.js",
+		"/D/javascript/course/Alert_Method.html",
+		"/D/web/Text editor/HTML1.html",
+		"/D/web/MOBILE/MOBILE.html",
+		"/D/web/Text editor/HTML1.js",
+		"/D/web/Text editor/HTML2.html",
+		"/D/web/Text editor/HTML1.css",
+		"/D/javascript/projects/Login form/Login.css",
+		"/D/web/fhjf/html.html",
+		"/D/javascript/course/DOM_Write_Method.html",
+		"/D/javascript/course/HTML_elements_by_CSS_Selector.html",
+		"/D/javascript/course/Style_Property.html",
+		"/D/javascript/course/DOM_element_Access_ClassName.html",
+		"/D/javascript/course/DOM_element_Access_TagName.html",
+		"/D/javascript/course/DOM_element_Access_ID.html",
+		"/D/javascript/course/Document_Object_Model.html",
+		"/D/javascript/course/Page_Printing.html",
+		"/D/javascript/course/Void_Keyword.html",
+		"/D/javascript/course/Confirm_Dialog_Box.html",
+		"/D/javascript/course/Page_Redirection.html",
+		"/D/javascript/course/Cookies.html",
+		"/D/javascript/course/Variable_scope.html",
+		"/D/javascript/course/Function_expression.html",
+		"/D/javascript/course/Function_OOP.html",
+		"/D/javascript/course/Sorting_Array.html",
+		"/D/javascript/course/Adding_new_Element_DOM.html",
+		"/D/javascript/course/Arrays.html",
+		"/D/javascript/course/Switch.html",
+		"/D/javascript/course/For_loops.html",
+		"/D/javascript/course/Do_Whle.html",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/D/javascript/course/While_loops.html",
+		"/D/javascript/projects/Samazon/Samazon.js",
+		"/D/javascript/projects/Samazon/Samazon.css",
+		"/D/javascript/projects/Samazon/Samazon1.css",
+		"/D/javascript/projects/Samazon/Samazon.html",
+		"/D/javascript/projects/Samazon/Samazon1.html",
+		"/D/javascript/projects/Samazon.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"project": "just.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

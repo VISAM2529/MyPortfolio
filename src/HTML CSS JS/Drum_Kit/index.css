@@ -1,0 +1,83 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+hr{
+    width: 70%;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin: 300px 0px 0px 0px;
+}
+button{
+    width: 150px;
+    height: 100px;
+    margin: 0px 50px 0px 50px;
+    font-size: 70px;
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+    width: 170px ;
+    height: 120px;
+}
+.w{
+    background-image: url("images/w.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}
+.a{
+    background-image: url("images/a.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}
+.s{
+    background-image: url("images/s.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}
+.d{
+    background-image: url("images/d.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}
+.j{
+    background-image: url("images/j.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}
+.k{
+    background-image: url("images/k.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}
+.l{
+    background-image: url("images/l.png");
+    width: 150px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(238, 28, 28);
+}

@@ -1,0 +1,39 @@
+
+button{   
+    width: 100px;
+    height: 60px;
+    margin:300px 0px 0px 60px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    width: 105px;
+    height: 65px;
+}
+.whitebtn{
+   background-color: white;
+}
+.bluebtn{
+    background-color: blue;
+}
+.blackbtn{
+    color: white;
+    background-color: black;
+}
+.greybtn{
+    background-color: grey;
+}
+.pinkbtn{
+    background-color: pink;
+}
+.redbtn{
+    background-color: red;
+}
+.aquabtn{
+    background-color: aqua;
+}
+.yellowbtn{
+    background-color: yellow;
+}

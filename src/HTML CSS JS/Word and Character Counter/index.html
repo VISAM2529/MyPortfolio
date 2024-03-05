@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Word And Character Counter</title>
+</head>
+<body>
+	<style type="text/css">
+		body{
+			padding: 50px 100px;
+			background-color: black;
+		}
+		h1{
+			background-color: aqua;
+			text-align: center;
+			font-family: cursive;
+			color: navy;
+			margin: 0px;
+		}
+		p{
+			color: navy;
+			font-size: 25px;
+			padding: 10px;
+			background-color: aqua;
+			text-align: center;
+			font-family: cursive;
+			margin: 0px;
+		}
+		#textbox{
+			font-family: monospace;
+			background-color: navy;
+			color: yellow;
+			font-size: 20px;
+			width: 99.61%;
+			height: 200px;
+			margin: 0px;
+		}
+	</style>
+	<div class="container">
+		<h1>Word And Character Counter</h1>
+		<textarea id="textbox" placeholder="Type Here......"></textarea>
+		<p>
+			<span id="word">0</span> Words and
+			<span id="char">0</span> Characters.
+		</p>
+	</div>
+	<script type="text/javascript">
+		let textbox = document.getElementById("textbox");
+		textbox.addEventListener('input',function(){
+			var text = this.value;
+			let char = text.length;
+			document.getElementById("char").innerHTML=char;
+
+			text = text.trim();
+			let words = text.split(" ");
+			let cleanList = words.filter(function(elm){
+				return elm != "";
+			})
+			document.getElementById("word").innerHTML = cleanList.length;			
+		});
+
+	</script>
+</body>
+</html>
